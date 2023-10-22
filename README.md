@@ -1,7 +1,7 @@
 
 # Conditionals Challenge
 
-Conditionals challenge made on ReactChallenges.com to start the depth of useState() with conditionals
+Conditionals challenge made on ReactChallenges.com to start the depth of ```useState()``` with conditionals
 
 
 
@@ -42,8 +42,8 @@ Start the server
 ## Tasks
 
 + Make the component client sided
-+ Make use of useState()
-+ Render the dog picture located in /public/dog.jpeg if show it's clicked
++ Make use of ```useState()```
++ Render the dog picture located in ```/public/dog.jpeg``` if show it's clicked
 + Hide the dog picture if "Hide" it's clicked
 + Alternate dog rotation 180deg on click
 
